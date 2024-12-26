@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            AI Project
+longtitle:        
+author:           peace.lock
+email:            
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://peace-lock.github.io/'
+baseurl:          '/outlier'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -42,9 +42,6 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
 permalink:                /:categories/:year-:month-:day-:title:output_ext
-
-# Disqus comments
-# disqushandler:            sighingnow
 
 exclude:
   - _drafts
