@@ -24,12 +24,12 @@ toc:
 # customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
 favicon_path:     /assets/gitbook/images/favicon.ico
 
+mathjax: false 
 # markdown render engine.
 markdown:         kramdown
 kramdown:
   auto_ids:               true
   input:                  GFM
-  math_engine:            mathjax
   smart_quotes:           lsquo,rsquo,ldquo,rdquo
   toc_levels:             1..6
   syntax_highlighter:     rouge
