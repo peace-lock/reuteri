@@ -12,6 +12,8 @@ To begin applying, send peace.lock your first name, last name, and email. [More 
 
 [About](#about) | [Applying](#applying) | [Referring Others](#referring-others)
 
+🚫 Outlier doesn't hite Nigerian, Kenyan, or Pakistani workers 🇵🇰🇰🇪🇳🇬
+
 ## About
 
 #### ***What is Outlier / what do I do?***
