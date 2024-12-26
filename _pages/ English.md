@@ -1,5 +1,5 @@
 ---
-title: English
+title: EN / English
 category: Posts
 layout: post
 ---
