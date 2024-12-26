@@ -84,7 +84,7 @@ require([
 
     function escapeReg(keyword) {
         //escape regexp prevserve word
-        return String(keyword).replace(/([\*\.\?\+\$\^\[\]\(\)\{\}\|\/\\])/g, '\\$1');
+        return String(keyword).replace(/([\*\.\?\+&#36;\^\[\]\(\)\{\}\|\/\\])/g, '\&#36;1');
     }
 
     function query(keyword) {
@@ -228,7 +228,7 @@ require([
 
     function getParameterByName(name) {
         var url = window.location.href;
-        name = name.replace(/[\[\]]/g, '\\$&');
+        name = name.replace(/[\[\]]/g, '\&#36;&');
         var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)', 'i'),
             results = regex.exec(url);
         if (!results) return null;

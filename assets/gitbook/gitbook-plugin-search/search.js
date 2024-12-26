@@ -171,7 +171,7 @@ require([
 
     function getParameterByName(name) {
         var url = window.location.href;
-        name = name.replace(/[\[\]]/g, '\\$&');
+        name = name.replace(/[\[\]]/g, '\&#36;&');
         var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)', 'i'),
             results = regex.exec(url);
         if (!results) return null;
