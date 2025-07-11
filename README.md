@@ -1,65 +1,110 @@
 ---
 layout: home
-title: AI Project
-permalink: /
+title: atxreuteri
+cover: /assets/jekyll-gitbook/cover.jpg
 ---
 
 ## Overview
 
-Hello. I’m **peace.lock**, and I'm hiring you for **outlier.ai**, an remote AI evaluation/re-writing company that pays between &#36;15-40 USD/hr. If you use my referral code, I’ll send you an extra &#36;30-80 and provide you with extra opportunities.
+> ##### NOTE
+>
+> Case by case, giving free bottles for Instagram / FB
+> etc. promotion. DM me!
+{: .block-tip }
 
-To begin applying, send peace.lock your first name, last name, and email. [More info here →](#applying)
+Hello, my name is Eli. Welcome to my page. You can find explanations on what L. reuteri (Limosilactobacillus reuteri DSM 17938) is and its benefits here. Unfortunately, I'm moving soon, so batches will only be available until **August 22nd**. I'll publicize fermentation instructions then so you can make it at home for free. [Buy here →](#applying)
 
-[About](#about) | [Applying](#applying) | [Referring Others](#referring-others)
+Follow us on Instagram: **[@atxreuteri](https://www.instagram.com/atxreuteri)
 
-🚫 Outlier doesn't hite Nigerian, Kenyan, or Pakistani workers 🇵🇰🇰🇪🇳🇬
+[ Include image here]
 
-## About
+<small>*All profits go to my brother's college education or to charity.*</small>
 
-#### ***What is Outlier / what do I do?***
-**Outlier** is a web-based, remote AI evaluation company. Your tasks depend on the project you’re assigned to, but usually you’re generating AI responses, evaluating them on certain criteria (ability to follow instructions, whether or not they contain mistakes) and then sometimes rewriting them. You earn money immediately upon tasking. Payouts are weekly.
+[Why Reuteri?](#why-reuteri) | [Buy](#buy)| [Usage](#usage) | [Science](#science)
 
-#### ***How much do they pay?***
-**Outlier** pays anywhere between **&#36;15-40** USD/hr depending on your 1. subject matter knowledge, (STEM expertise) 2. past college education, and 3. skill in writing. However, they hire just about anyone, as long as you’re 18+ years old and can speak one of Outlier’s requested languages, which include dozens from English to Hindi.  
+## Why L. reuteri?
 
-You will also make an additional &#36;30-80 due to my referral code once you complete 10 hours of work. 
+Emerging research links imbalances in the gut microbiome—often called gut dysbiosis—to a spectrum of problems with effects, well, basically all over the human body. Dysbiosis can harm gastrointestinal, metabolic, skin, cognitive, and even mental health. Curing it is a difficult process, but careful supplementation can make it faster. L. reuteri, due to its natural presence in some healthy humans and its wide variety of health benefits, is a natural choice. Furthermore, in healthy adults, it can strengthen existing wellness and even provide novel mental effects (increased oxytocin, vivid dreams). 
 
-#### ***Who are you?***
-I’m a high-tiered contractor for the company, and want to help you apply through one of my referral links so we both make some referral money. Furthermore, **if you have any friends or family interested**, I’ll pay you for each person.
+🫙 L. reuteri, generally speaking:
+* Naturally colonizes human gut and urogenital tract (but can also benefit skin, oral, and other microbiomes)
+* Produces **reuterin**, a natural antimicrobial that suppresses pathogens
+* Provides overall health benefits in both human and animal studies
 
-#### ***Why not just apply without your help?*** 
-Three reasons:
-1. I’m a high-tiered contractor and can help you through the process to make sure you match with the highest paying project possible;
-2. **I get paid for hiring you**, and I’ll send you some of the referral money. &#36;30 if you’re applying for an English position, &#36;80 if you’re applying for a non-English position;
-3. I believe referral codes only unlock after being a contractor for a while, so I alone can pay you for referring other friends. 
+🌿 Potential benefits include:
+* Gut comfort & regularity  
+* Better immune balance (fewer colds, less inflammation)  
+* Skin appearance (↓ acne, ↑ dermal collagen)  
+* Mood & stress resilience (↑ oxytocin, ↓ cortisol in some studies)  
+* Metabolic support (better insulin sensitivity, lower LDL)  
+* Bone strength (↑ bone density markers)  
+* Oral health (cuts down plaque & gum bleeding)  
+* Women’s & men’s health (↑ vaginal microbiome health; ↑ testosterone in animal work)
 
-#### ***What do I need?***
-1. A valid government ID.
-2. Residency anywhere outside Pakistan, Nigeria, or Kenya.
-3. 18+ years of age.
-4. A valid way to withdraw money (Bank transfer, PayPal, AirTM, etc.)
 
-#### ***How do I know this is legit?***
-Really, you should be able to understand the legitimacy easily. Look up reddit.com/r/outlierai. Go to the outlier.ai website. This is an established company that’s paid out millions of dollars. If you need, contact peace.lock for proof and I can voice call, send you screenshots, etc.
+> ##### NOTE
+>
+> You can review the studies yourself [here](#science).
+> I apologize for not properly setting up references; I'm a bit low on time.
+{: .block-tip }
 
-*Outlier does have problems*, such as poor communication, but they’re legitimate: they offer legal work and pay out on time.
+#### *Why not just buy it from Amazon / Why the ferment?*
 
-Once you’re ready to apply, go on to the next section. →
+Standard capsules dose at about 100 million CFUs. My fermentation process ensures *at least* 10-20 billion CFU per mL (but likely more). Additionally, 1. the bacteria is healthier as they've been already woken up, and 2. comes with *reuterin* (usually only produced after a while in the gut, but pre-made in the fermentation process). Overall, it's a lot more effective.
 
-## Applying
+**With retail, you pay $29.99 for 60 billion CFU. With my ferment, you pay $8 for 1.2 trillion CFU.**
 
-Starting is easy. 
-1. Text peace.lock on Discord with your first name, last name, and email. *Do not apply on the main outlier.ai website*, as I won’t obtain referral money, and I won’t be able to send you any.
-2. Once you’ve sent me your info, you’ll receive a sign-up email within 2 hours. Click on it and begin the application process (If you don’t receive one, sign up [through this link instead](https://app.outlier.ai/expert/opportunities?utm_source=referral&referring_user=d3bf6092b1a733669e655ccf33e5ffd911818e6b86b4cc2b7e88b158e5294ff2741052fd3655d428ce07ec973568d167)). Your application will be reviewed within 24 hours, and you’ll be asked to take an assessment.
-3. Complete your assessment. You’ll be assigned to a project, and you can begin working.
-4. Work. Outlier will pay you throughout. Once you’ve completed 10 hours of work, tell peace.lock how you’d like him to pay you, and he’ll send you a bonus (**&#36;30/&#36;80**).
-5. (Optional) At any point, you can refer friends to make extra money. Send peace.lock the first name / last name / email of any interested friends or family. Once they complete 10 hours of work, I’ll pay you.
+#### *How do you make it?*
 
-*During this time, feel free to ask peace.lock any questions.*
+I use 🥕 carrot juice (main substrate), grape juice (rich in polyphenols; feeds reuteri), and baking soda (to provide a comfortable pH). I also add nutritional yeast, glycerin, and some sugar to feed it. My starting culture is BioGaia's [Protectis Immune Active Probiotic](https://www.amazon.com/BioGaia-Protectis-Probiotic-Clinically-Probiotics/dp/B09H3Q9GJV/ref=asc_df_B09H3Q9GJV?mcid=f7346a92347836aebb20dee0bb7331d3&hvocijid=10943040370973686845-B09H3Q9GJV-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=10943040370973686845&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028313&hvtargid=pla-2281435179778&psc=1). Juices are not organic, but glad to make organic batches on request.
 
-## Referring Others
+It's not too hard to make. I'll provide detailed instructions around August 22nd. 
 
-I’ll also pay you for each of your friends that completes 10 hours of work through my referral link. Depending on how invested you are, this can be extremely profitable. You can either just refer a couple of friends to me *or* you can tap into your networks, contact your Facebook groups, and potentially rack up &#36;100's of dollars.
+#### *Is it safe?*
 
-To refer others, send peace.lock each person’s first name, last name, and email.
+Our batches are heat-treated before fermentation, produced under >pH 4.5 control, and immediately chilled to 34 – 38 °F. If a bottle ever seems off, let me know.
 
+#### *How can I help?*
+
+Share with friends! I'd like to sell a lot before I'm gone, but I don't think many people are aware of L. reuteri.
+
+Follow us on Instagram: **[@atxreuteri](https://www.instagram.com/atxreuteri)
+
+## Buy
+
+Order on this [Google Form](Google form).
+
+**Price:** *6$* (5$ + 1$ bottle deposit) for first batch. 
+**Payment:** PayPal, CashApp, or Venmo. Can take cash, but not preferred.
+
+Free porch pick-up in 78749 (near Boone Elementary). I deliver (2.50$ within 5 miles, 5$ within 10 miles). Return your bottle for $1. 
+
+## Usage
+
+* Keep refrigerated 34–38 °F (1–3 °C).  
+* Best within 14 days of the “Brewed” date on the cap.  
+* Don't freeze. 
+
+Each 1 mL (≈ ⅕ tsp) delivers **≥20 billion CFU**. *High* concentrate. Take very, very little: 1/2 - 2 tsp. While theoretically it's a big supply, colonies can degrade—recommend restocking every week or so. 
+
+* Ages 3–12: start with 0.25 mL (5 B CFU).  
+* Under 3 yr, pregnant, or immune-compromised individuals should consult a pediatrician or clinician before use.
+
+#### *Is it gluten-free / keto / low-FODMAP?*
+Yes. Carbs per serving <0.2 g; no gluten-containing ingredients; GOS content below typical FODMAP thresholds.
+
+## Science
+
+WIP
+
+## Disclaimer 
+
+<small>
+These statements have not been evaluated by the Food and Drug Administration.  
+This product is not intended to diagnose, treat, cure, or prevent any disease.  
+© 2024 ATX Reuteri, Austin TX
+</small>
+
+
+Cryan & Dinan https://pubmed.ncbi.nlm.nih.gov/22968153/
+Leisk et al https://bornfree.life/2024/the-disease-model/
