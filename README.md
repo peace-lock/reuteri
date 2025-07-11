@@ -2,7 +2,7 @@
 layout: home
 title: atxreuteri
 permalink: /
-cover: /assets/jekyll-gitbook/cover.jpg
+cover: /assets/cover.jpg
 ---
 
 ## Overview
@@ -15,13 +15,13 @@ cover: /assets/jekyll-gitbook/cover.jpg
 
 Hello, my name is Eli. Welcome to my page. You can find explanations on what L. reuteri (Limosilactobacillus reuteri DSM 17938) is and its benefits here. Unfortunately, I'm moving soon, so batches will only be available until **August 22nd**. I'll publicize fermentation instructions then so you can make it at home for free. [Buy here →](#applying)
 
-Follow us on Instagram: **[@atxreuteri](https://www.instagram.com/atxreuteri)
+Follow us on Instagram: **[@atxreuteri](https://www.instagram.com/atxreuteri)**
 
 [ Include image here]
 
-<small>*All profits go to my brother's college education or to charity.*</small>
+📌 *All profits are donated.*
 
-[Why Reuteri?](#why-reuteri) | [Buy](#buy)| [Usage](#usage) | [Science](#science)
+[Why L. reuteri?](#why-l-reuteri) | [💴 Buy](#buy)| [🫙 Usage](#usage) | [🧑🏻‍🔬 Science](#science)
 
 ## Why L. reuteri?
 
@@ -69,7 +69,7 @@ Our batches are heat-treated before fermentation, produced under >pH 4.5 control
 
 Share with friends! I'd like to sell a lot before I'm gone, but I don't think many people are aware of L. reuteri.
 
-Follow us on Instagram: **[@atxreuteri](https://www.instagram.com/atxreuteri)
+Follow us on Instagram: **[@atxreuteri](https://www.instagram.com/atxreuteri)**
 
 ## Buy
 
@@ -82,17 +82,12 @@ Free porch pick-up in 78749 (near Boone Elementary). I deliver (2.50$ within 5 m
 
 ## Usage
 
+Each 1 mL (≈ ⅕ tsp) delivers **≥20 billion CFU**. *High* concentrate. Take very, very little: 1/2 - 2 tsp. Drinking too much might lead to bloating, mild nausea, etc. While theoretically it's a big supply, colonies can degrade—recommend restocking every week or so. 
+
 * Keep refrigerated 34–38 °F (1–3 °C).  
 * Best within 14 days of the “Brewed” date on the cap.  
-* Don't freeze. 
-
-Each 1 mL (≈ ⅕ tsp) delivers **≥20 billion CFU**. *High* concentrate. Take very, very little: 1/2 - 2 tsp. While theoretically it's a big supply, colonies can degrade—recommend restocking every week or so. 
-
 * Ages 3–12: start with 0.25 mL (5 B CFU).  
 * Under 3 yr, pregnant, or immune-compromised individuals should consult a pediatrician or clinician before use.
-
-#### *Is it gluten-free / keto / low-FODMAP?*
-Yes. Carbs per serving <0.2 g; no gluten-containing ingredients; GOS content below typical FODMAP thresholds.
 
 ## Science
 
@@ -100,12 +95,8 @@ WIP
 
 ## Disclaimer 
 
-<small>
-These statements have not been evaluated by the Food and Drug Administration.  
-This product is not intended to diagnose, treat, cure, or prevent any disease.  
+These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.  
 © 2024 ATX Reuteri, Austin TX
-</small>
-
 
 Cryan & Dinan https://pubmed.ncbi.nlm.nih.gov/22968153/
 Leisk et al https://bornfree.life/2024/the-disease-model/
