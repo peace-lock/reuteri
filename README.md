@@ -1,6 +1,7 @@
 ---
 layout: home
 title: atxreuteri
+permalink: /
 cover: /assets/jekyll-gitbook/cover.jpg
 ---
 
