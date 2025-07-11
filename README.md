@@ -33,8 +33,10 @@ Emerging research links imbalances in the gut microbiome—often called gut dysb
 🌿 Potential benefits include:
 * Gut comfort & regularity  
 * Better immune balance (fewer colds, less inflammation)  
+* Outcompeting pathogens (H. pylori, for example) [<1>](https://journals.sagepub.com/doi/full/10.1177/17562848241258021)
 * Skin appearance (↓ acne, ↑ dermal collagen)  
 * Mood & stress resilience (↑ oxytocin, ↓ cortisol in some studies)  
+* Alleviating depression [<2>](https://www.sciencedirect.com/science/article/abs/pii/S0163834325001069)
 * Metabolic support (better insulin sensitivity, lower LDL)  
 * Bone strength (↑ bone density markers)  
 * Oral health (cuts down plaque & gum bleeding)  
