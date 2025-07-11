@@ -11,7 +11,7 @@ cover: /assets/cover.jpg
 > etc. promotion. DM me!
 {: .block-tip }
 
-Hello, my name is Eli. Welcome to my page. You can find explanations on what L. reuteri is and its benefits here. Unfortunately, I'm moving soon, so batches will only be available until **August 22nd**. I'll publicize fermentation instructions then so you can make it at home for free. [Buy here →](#applying)
+Hello. Welcome to my page. You can find explanations on L. reuteri and its benefits here. Unfortunately, I'm moving soon, so batches will only be available until **August 22nd**. I'll publicize fermentation instructions then so you can make it at home for free. [Buy here →](#applying)
 
 Follow us on Instagram: **[@atxreuteri](https://www.instagram.com/atxreuteri)**
 
@@ -40,7 +40,6 @@ Emerging research links imbalances in the gut microbiome—often called gut dysb
 * Oral health (cuts down plaque & gum bleeding)  
 * Women’s & men’s health (↑ vaginal microbiome health; ↑ testosterone in animal work)
 
-
 > ##### NOTE
 >
 > You can review the studies yourself [here](#science).
@@ -63,6 +62,10 @@ It's not too hard to make. I'll provide detailed instructions around August 22nd
 
 Our batches are heat-treated before fermentation, produced under >pH 4.5 control, and immediately chilled to 34 – 38 °F. At-home ferments always contain some amount of wild bacteria (there's always an extremely minor risk of illness, especially if your immune system is struggling), but previous 16s DNA testing has shown ferments contain over 90% L. reuteri. If a bottle ever seems off, let me know. 
 
+#### *Is this a miracle product?*
+
+No. Human bodies are complex and there are many theories as to the best ways to take care of them. L. reuteri, however (especially in this concentrated form), is one of the most promising probiotics for overall health, so you might see better results from it than from a more specific supplement. 
+
 #### *How can I help?*
 
 Share with friends! I'd like to sell a lot before I'm gone, but I don't think many people are aware of L. reuteri.
@@ -71,7 +74,7 @@ Follow us on Instagram: **[@atxreuteri](https://www.instagram.com/atxreuteri)**
 
 ## Buy
 
-Order on this [Google Form](Google form).
+Order on this [Google Form](https://forms.gle/qgLmnCUSBREkMfQp8).
 
 **Price:** *6$* (5$ + 1$ bottle deposit) for first batch. 
 **Payment:** CashApp ($atxreuteri), Venmo (@atxreuteri), or cash (least preferred).
