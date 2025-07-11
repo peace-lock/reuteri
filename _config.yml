@@ -1,7 +1,7 @@
 # Configurations
-title:            AI Project
+title:            atxreuteri
 longtitle:        
-author:           peace.lock
+author:           
 email:            
 description: >
   Build Jekyll site with the GitBook style.
@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://peace-lock.github.io/'
-baseurl:          '/outlier'
+baseurl:          '/reuteri'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
