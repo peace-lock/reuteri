@@ -1,11 +1,9 @@
 ---
 layout: home
-title: atxreuteri
+title: Home
 permalink: /
 cover: /assets/cover.jpg
 ---
-
-## Overview
 
 > ##### NOTE
 >
@@ -13,7 +11,7 @@ cover: /assets/cover.jpg
 > etc. promotion. DM me!
 {: .block-tip }
 
-Hello, my name is Eli. Welcome to my page. You can find explanations on what L. reuteri (Limosilactobacillus reuteri DSM 17938) is and its benefits here. Unfortunately, I'm moving soon, so batches will only be available until **August 22nd**. I'll publicize fermentation instructions then so you can make it at home for free. [Buy here →](#applying)
+Hello, my name is Eli. Welcome to my page. You can find explanations on what L. reuteri is and its benefits here. Unfortunately, I'm moving soon, so batches will only be available until **August 22nd**. I'll publicize fermentation instructions then so you can make it at home for free. [Buy here →](#applying)
 
 Follow us on Instagram: **[@atxreuteri](https://www.instagram.com/atxreuteri)**
 
@@ -25,7 +23,7 @@ Follow us on Instagram: **[@atxreuteri](https://www.instagram.com/atxreuteri)**
 
 ## Why L. reuteri?
 
-Emerging research links imbalances in the gut microbiome—often called gut dysbiosis—to a spectrum of problems with effects, well, basically all over the human body. Dysbiosis can harm gastrointestinal, metabolic, skin, cognitive, and even mental health. Curing it is a difficult process, but careful supplementation can make it faster. L. reuteri, due to its natural presence in some healthy humans and its wide variety of health benefits, is a natural choice. Furthermore, in healthy adults, it can strengthen existing wellness and even provide novel mental effects (increased oxytocin, vivid dreams). 
+Emerging research links imbalances in the gut microbiome—often called gut dysbiosis—to a spectrum of problems with effects, well, basically all over the human body. Dysbiosis can harm gastrointestinal, metabolic, skin, cognitive, and even mental health. Curing it is a difficult process, but careful supplementation can make it faster. **L. reuteri** (Limosilactobacillus reuteri DSM 17938), due to its natural presence in some healthy humans and its wide variety of health benefits, is a natural choice. Furthermore, in healthy adults, it can strengthen existing wellness and even provide novel mental effects (increased oxytocin, vivid dreams). 
 
 🫙 L. reuteri, generally speaking:
 * Naturally colonizes human gut and urogenital tract (but can also benefit skin, oral, and other microbiomes)
@@ -63,7 +61,7 @@ It's not too hard to make. I'll provide detailed instructions around August 22nd
 
 #### *Is it safe?*
 
-Our batches are heat-treated before fermentation, produced under >pH 4.5 control, and immediately chilled to 34 – 38 °F. If a bottle ever seems off, let me know.
+Our batches are heat-treated before fermentation, produced under >pH 4.5 control, and immediately chilled to 34 – 38 °F. At-home ferments always contain some amount of wild bacteria (there's always an extremely minor risk of illness, especially if your immune system is struggling), but previous 16s DNA testing has shown ferments contain over 90% L. reuteri. If a bottle ever seems off, let me know. 
 
 #### *How can I help?*
 
@@ -76,9 +74,9 @@ Follow us on Instagram: **[@atxreuteri](https://www.instagram.com/atxreuteri)**
 Order on this [Google Form](Google form).
 
 **Price:** *6$* (5$ + 1$ bottle deposit) for first batch. 
-**Payment:** PayPal, CashApp, or Venmo. Can take cash, but not preferred.
+**Payment:** CashApp ($atxreuteri), Venmo (@atxreuteri), or cash (least preferred).
 
-Free porch pick-up in 78749 (near Boone Elementary). I deliver (2.50$ within 5 miles, 5$ within 10 miles). Return your bottle for $1. 
+Free porch pick-up in 78749 (near Boone Elementary). I deliver (2.50$ within 5 miles, 5$ within 10 miles). Return your bottle to get your $1 deposit back. 
 
 ## Usage
 
