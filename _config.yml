@@ -21,9 +21,6 @@ toc:
   h_min:   1
   h_max:   3
 
-# customize the link favicon in header, will be {{site.baseurl}}/{{site.favicon_path}}
-favicon_path:     /assets/favicon/favicon.ico
-
 mathjax: false 
 # markdown render engine.
 markdown:         kramdown
